@@ -36,11 +36,16 @@ Expected output:
 ansible [core 2.16.16]
   config file = /etc/ansible/ansible.cfg
 ```
+## Troubleshooting
 
-### Troubleshooting
 | Problem | Solution |
+|---------|----------|
 | ansible: command not found | Install ansible-core package |
 | Permission denied | Use sudo or check user permissions |
+
+
+
+
 
 ## References
 
